@@ -1,0 +1,26 @@
+h1 {
+  color: lightgreen;
+  font-size: 45px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  font-family: "Delicious Handrawn", cursive;
+}
+canvas {
+  border: 2px solid rgb(151, 149, 149);
+}
+
+main {
+  display: flex;
+  align-items: center;
+}
+
+p {
+  color: lightgreen;
+}
+.game {
+  padding-left: 30%;
+  padding-right: 9px;
+}
